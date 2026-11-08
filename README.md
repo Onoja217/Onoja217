@@ -1,61 +1,101 @@
-d## Hi there 👋
-# 👋 Hi, I'm Onoja217!
+# 👋 Hi, I'm Onoja Monday Ojonugba
 
-Welcome to my GitHub profile!  
-I'm passionate about technology and currently a tech student learning Go (Golang).
+### Software Engineer | Backend Development | Cloud Applications
+
+I'm a software developer passionate about building practical software solutions, backend services, and web applications that solve real-world problems.
+
+I enjoy turning ideas into functional products, designing reliable APIs, working with databases, and exploring technologies that make software more efficient, scalable, and maintainable.
+
+I'm continuously improving my engineering skills through hands-on projects, experimentation, and learning.
 
 ---
 
 ## 🚀 About Me
 
-- 💡 Tech enthusiast always eager to learn and build.
-- 🎓 Student focused on mastering software development.
-- 🌱 Currently learning: **Go language (Golang)**
+- 💻 Interested in software engineering, backend development, and cloud technologies.
+- 🌱 Continuously learning and improving my skills in **Go, Python, and TypeScript**.
+- 🔧 Building practical applications, REST APIs, and backend systems.
+- 🗄️ Exploring databases, application architecture, and cloud infrastructure.
+- 🤝 Open to collaborating on meaningful software projects and learning from other developers.
+- 🎯 Focused on writing clean, maintainable code and building software that makes a difference.
 
 ---
 
-## 🧰 Toolbox
+## 🛠️ Technologies & Tools
 
-Here are some tools and technologies I'm exploring:
+**Programming Languages**
 
-- Programming Languages: `Go`, `Python`, `JavaScript`
-- Tools & Platforms: `Git`, `GitHub`, `VS Code`
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+**Areas of Interest**
+
+- Backend Engineering
+- RESTful API Development
+- Database Design
+- Cloud Applications
+- Software Architecture
+- Web Application Development
 
 ---
 
-## 📈 GitHub Stats
+## 🌟 Featured Projects
 
-![Onoja217's GitHub stats](https://github-readme-stats.vercel.app/api?username=Onoja217&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Onoja217&layout=compact&theme=radical)
+### 1. AIJE – Community Safety Platform
+A community-focused project exploring technology-driven safety, reporting, and emergency communication.
+
+[Explore Repository](https://github.com/Onoja217/AIJE-Development-Roadmap)
+
+### 2. Onoja.dev – Developer Portfolio
+My personal portfolio showcasing my development journey, technical interests, and software projects.
+
+[Visit Portfolio](https://onoja.is-a.dev)
+
+### 3. Stonez Digital
+A digital software and technology initiative focused on building practical digital solutions and web applications.
+
+[Visit Website](https://stonezdigital.com.ng)
 
 ---
 
-## 📫 Let's Connect!
+## 📊 GitHub Statistics
 
-Feel free to reach out and collaborate.  
-<!-- Add your social links below if you like -->
-<!-- - [LinkedIn](#) -->
-<!-- - [Twitter](#) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Onoja217&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onoja217&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Onoja217&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
 ---
 
-> "The beautiful thing about learning is that nobody can take it away from you." – B.B. King
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, exploring new ideas, and collaborating on meaningful projects.
+
+- 🌐 **Portfolio:** [onoja.is-a.dev](https://onoja.is-a.dev)
+- 💼 **LinkedIn:** [Onoja Monday Ojonugba](https://www.linkedin.com/in/onoja-monday-ojonugba-2084b3404/)
+- 🐙 **GitHub:** [@Onoja217](https://github.com/Onoja217)
+- 📧 **Email:** [Contact Me](mailto:onojamondayojonugba@gmail.com)
 
 ---
 
-Thanks for stopping by! ⭐️
-<!--
-**Onoja217/Onoja217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <i>"Great software is built through curiosity, consistency, and a commitment to solving real problems."</i>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a project as an assignment...
-- 🌱 I’m currently learning Generative AI...
-- 👯 I’m looking to collaborate on Generative AI...
-- 🤔 I’m looking for help with my Edupal project...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<p align="center">
+  ⭐ Thanks for visiting my profile. Feel free to explore my repositories!
+</p>
