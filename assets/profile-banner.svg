@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Onoja Monday Ojonugba — Software Engineer</title>
+  <desc id="desc">A modern navy and blue abstract technology banner with the title Software Engineer, Backend Systems, APIs and Cloud Applications.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#081426"/>
+      <stop offset=".55" stop-color="#10294a"/>
+      <stop offset="1" stop-color="#07111f"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#818cf8"/>
+    </linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#8bb8e8" stroke-opacity=".09" stroke-width="1"/>
+    </pattern>
+    <filter id="glow"><feGaussianBlur stdDeviation="18"/></filter>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <circle cx="1010" cy="80" r="120" fill="#2563eb" opacity=".18" filter="url(#glow)"/>
+  <circle cx="930" cy="300" r="140" fill="#06b6d4" opacity=".13" filter="url(#glow)"/>
+  <g fill="none" stroke="url(#accent)" stroke-width="2" opacity=".55">
+    <path d="M770 0V95H900V165H1050V245H1200"/>
+    <path d="M850 360V290H980V220H1120V145H1200"/>
+    <circle cx="770" cy="95" r="5" fill="#38bdf8"/><circle cx="900" cy="165" r="5" fill="#818cf8"/>
+    <circle cx="1050" cy="245" r="5" fill="#38bdf8"/><circle cx="980" cy="290" r="5" fill="#818cf8"/>
+  </g>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="76" y="105" fill="#7dd3fc" font-size="17" font-weight="700" letter-spacing="5">SOFTWARE ENGINEER</text>
+    <text x="72" y="174" fill="#f8fafc" font-size="48" font-weight="750" letter-spacing="-1.5">ONOJA MONDAY</text>
+    <text x="76" y="225" fill="#f8fafc" font-size="38" font-weight="650" letter-spacing="-.5">OJONUGBA</text>
+    <rect x="76" y="255" width="84" height="4" rx="2" fill="url(#accent)"/>
+    <text x="76" y="300" fill="#cbd5e1" font-size="19" font-weight="500">Backend Systems  ·  APIs  ·  Cloud Applications</text>
+  </g>
+  <g transform="translate(1010 180)" opacity=".9">
+    <circle r="76" fill="#0b1b31" stroke="#38bdf8" stroke-opacity=".5" stroke-width="1.5"/>
+    <circle r="58" fill="none" stroke="#64748b" stroke-opacity=".45" stroke-dasharray="4 8"/>
+    <path d="M-25 -25L-48 0L-25 25M25 -25L48 0L25 25M10 -38L-10 38" fill="none" stroke="url(#accent)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
