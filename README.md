@@ -89,37 +89,17 @@ I enjoy taking a problem from an initial idea through implementation, testing, a
 
 ## GitHub at a Glance
 
-<p align="center">
-  <em>Public GitHub activity, language distribution, and contribution consistency.</em>
-</p>
+Public GitHub activity, language distribution, and contribution consistency.
 
-<p align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=Onoja217&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=transparent&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8">
-    <img src="https://github-readme-stats.vercel.app/api?username=Onoja217&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=transparent&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="GitHub statistics for Onoja217" />
-  </a>
-</p>
+![GitHub statistics for Onoja217](https://github-readme-stats.vercel.app/api?username=Onoja217&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=transparent&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8)
 
-<p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Onoja217&layout=compact&langs_count=6&hide_border=true&theme=transparent&title_color=38BDF8&text_color=94A3B8">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onoja217&layout=compact&langs_count=6&hide_border=true&theme=transparent&title_color=38BDF8&text_color=94A3B8" alt="Most used languages in public repositories" />
-  </a>
-</p>
+![Most used languages in public repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=Onoja217&layout=compact&langs_count=6&hide_border=true&theme=transparent&title_color=38BDF8&text_color=94A3B8)
 
-<p align="center">
-  <a href="https://streak-stats.demolab.com?user=Onoja217&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8">
-    <img src="https://streak-stats.demolab.com?user=Onoja217&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub contribution streak for Onoja217" />
-  </a>
-</p>
+![GitHub contribution streak for Onoja217](https://streak-stats.demolab.com?user=Onoja217&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8)
 
-<p align="center">
-  <a href="https://github-readme-activity-graph.vercel.app/graph?username=Onoja217&bg_color=000000&color=94A3B8&line=38BDF8&point=38BDF8&area=true&hide_border=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Onoja217&bg_color=000000&color=94A3B8&line=38BDF8&point=38BDF8&area=true&hide_border=true" alt="GitHub contribution activity graph for Onoja217" />
-  </a>
-</p>
+![GitHub contribution activity graph for Onoja217](https://github-readme-activity-graph.vercel.app/graph?username=Onoja217&bg_color=000000&color=94A3B8&line=38BDF8&point=38BDF8&area=true&hide_border=true)
 
-<p align="center">
-  <sub>Cards are provided by external services and may take a short time to refresh. Language percentages represent repository code size, not overall proficiency.</sub>
-</p>
+<sub>Cards are provided by external services and may take a short time to refresh. Language percentages represent repository code size, not overall proficiency.</sub>
 ---
 
 ## Connect
